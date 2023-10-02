@@ -1,0 +1,6 @@
+./rviz_rendering/ogre_media/materials/glsl120/test_glsl.sh
+./rviz_rendering/ogre_media/fonts/liberation-sans/LiberationSans-Italic.ttf
+./rviz_rendering/ogre_media/fonts/liberation-sans/LiberationSans-Regular.ttf
+./rviz_rendering/ogre_media/fonts/liberation-sans/LiberationSans-Bold.ttf
+./rviz_rendering/ogre_media/fonts/liberation-sans/LiberationSans-BoldItalic.ttf
+./rviz_rendering/ogre_media/fonts/liberation-sans/SIL Open Font License.txt
